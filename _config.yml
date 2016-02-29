@@ -1,0 +1,28 @@
+name: DavidArt
+favicon: null
+layout_spectrum: 0.9976848419755697
+typography_spectrum: 0.7504959739744663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9505323828198016
+  lightness: 0.2623197119683027
+  saturation: 0.5258932262659073
+  rhythmicContrast: 0.4584008331876248
+purpose: []
