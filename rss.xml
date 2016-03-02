@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DavidArt]]></title>
         <description><![CDATA[DavidArt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/davidart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 19:35:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 20:58:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davidart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8308c14-5af3-4819-9fd4-8ec8e4e4a8ac.jpg">]]></description>
+            <link>https://thegrid.ai/davidart/8dc37d97-4ba9-4e88-8614-797ffb066737/index.html</link>
+            <guid isPermaLink="false">8dc37d97-4ba9-4e88-8614-797ffb066737</guid>
+            <pubDate>Wed, 02 Mar 2016 20:58:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>2/5/15</p>]]></description>
-            <link>undefined1c901615-9d60-48a4-926c-6e2ce2337121/index.html</link>
+            <link>https://thegrid.ai/davidart/1c901615-9d60-48a4-926c-6e2ce2337121/index.html</link>
             <guid isPermaLink="false">1c901615-9d60-48a4-926c-6e2ce2337121</guid>
             <pubDate>Mon, 29 Feb 2016 19:35:02 GMT</pubDate>
         </item>
