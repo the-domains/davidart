@@ -1,7 +1,7 @@
 name: DavidArt
 favicon: null
-layout_spectrum: 0.9976848419755697
-typography_spectrum: 0.7504959739744663
+layout_spectrum: 1
+typography_spectrum: 0.75255
 cta:
   domain: null
   bucket: null
