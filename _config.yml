@@ -1,19 +1,4 @@
-name: DavidArt
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.75255
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#b64000'
@@ -25,4 +10,20 @@ color:
   lightness: 0.2623197119683027
   saturation: 0.5258932262659073
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: DavidArt
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: David A. Meyer II
 purpose: []
